@@ -3,7 +3,7 @@
         <embed
             v-if="isMobile"
             class="embed-container" 
-            src="https://realptcoach.waveon.io/"
+            src="https://realcoach.waveon.io/"
             title="RealCoach PT"
             frameborder="0"
         />

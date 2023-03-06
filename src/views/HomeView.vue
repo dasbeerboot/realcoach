@@ -4,7 +4,7 @@
             v-if="isMobile"
             class="embed-container" 
             src="https://realcoach.waveon.io/"
-            title="RealCoach PT"
+            title="RealCoach"
             frameborder="0"
         />
         <div v-else class="is-desktop">

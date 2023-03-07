@@ -24,13 +24,11 @@
   @import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@300;400;500;700&display=swap');
   .container {
     font-family: 'Noto Sans KR', sans-serif;
-    height: 100%;
+    height: 100vh;
   }
   .embed-container {
      width: 100%;
-     min-height: 7350px;
      height: 100%;
-     max-height: max-content;
      display: flex;
      flex-direction: column;
      justify-content: center;
